@@ -1,5 +1,5 @@
 #  Hi 👋, I'm Monalisha Sahoo
-**QA Engineer || Manual Testing || API Testing(postman,SOAP) || Selenium || Playwright || Jira || TestRail ||Bug Reporting || Regression Testing **
+**QA Engineer || Manual Testing || API Testing(postman,SOAP) || Selenium || Playwright || Jira || TestRail ||Bug Reporting || Regression Testing**
 
 Email Me 👉 ✉️ **sahoomonalisha450@gmail.com** For Collaboration/Project or Anything Else. 😊😊
 
